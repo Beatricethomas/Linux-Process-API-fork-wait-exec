@@ -51,7 +51,7 @@ int main(void)
 
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/54c72d0f-3110-41b4-8744-6333cd8e89cd)
+
 
 
 
@@ -79,7 +79,6 @@ exit(0);}
 
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/ce9b4e46-f6f6-420f-b28a-5eb555e69ca6)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -113,7 +112,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/601fe8f0-b87c-4a2c-a3a7-f04a827063e2)
+
 
 
 
