@@ -49,9 +49,9 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
-
+[text](../.png)
 
 
 
@@ -77,9 +77,9 @@ exit(0);}
 
 ```
 
-##OUTPUT
+## OUTPUT
 
-
+![alt text](../forkcheck.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -110,10 +110,10 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ```
 
-##OUTPUT
+## OUTPUT
+ 
 
-
-
+![alt text](../execcheck.png)
 
 
 
