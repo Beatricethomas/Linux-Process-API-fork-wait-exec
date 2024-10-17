@@ -51,8 +51,7 @@ int main(void)
 
 ## OUTPUT
 
-[text](../.png)
-
+![alt text](pidcheck.png)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -79,7 +78,7 @@ exit(0);}
 
 ## OUTPUT
 
-![alt text](../forkcheck.png)
+![alt text](forkcheck.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -112,8 +111,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
  
-
-![alt text](../execcheck.png)
+![alt text](execcheck.png)
 
 
 
